@@ -1,1 +1,0 @@
-http://bootstrap.ngtemplates.com/
